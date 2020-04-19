@@ -1,4 +1,5 @@
 import unittest
+import pyperclip
 from user_credentials import User, user_credentials
 
 class TestUser(unittest.TestCase):
@@ -111,4 +112,3 @@ class TestCredentials(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main(verbosity=2)
-        
