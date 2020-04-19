@@ -13,6 +13,10 @@ Password Locker is a terminal run python application that allows users to store 
 
 ### Cloning
 * In your terminal:
-      $ git clone https://github.com/glasses-png/Password-Locker/
-      $ cd Password-Locker
-      
+    *  $ git clone https://github.com/glasses-png/Password-Locker/
+    *  $ cd Password-Locker
+
+## Running your application
+* To run your application in your terminal:
+      * $ chmod +x password_locker.py
+      * $ ./password_locker.py
