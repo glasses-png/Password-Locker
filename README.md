@@ -38,3 +38,6 @@ Password Locker is a terminal run python application that allows users to store 
 
 ## Contact information
 Reach me through my email:cchelangat16@gmail.com
+
+## Licence
+MIT &copy;2020 Charlotte Chelang'at
