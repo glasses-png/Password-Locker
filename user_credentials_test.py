@@ -1,6 +1,6 @@
 import unittest
 import pyperclip
-from user_credentials import User, user_credentials
+from user_credentials import User
 
 class TestUser(unittest.TestCase):
     '''
@@ -31,13 +31,14 @@ class TestUser(unittest.TestCase):
         self.new_user.save_user()
         self.assertEqual(len(User.users_list),1)
 
-class TestCredentials(unittest.TestCase):
+    class TestCredentials(unittest.TestCase):
         '''
         Test class that defines test cases for the credentials class behaviours.
 
         Args:
             unittest.TestCase: helps in creating test cases
         '''
+
     def test_check_user(self):
         '''
         Function to test whether the login function check_user works as expected
