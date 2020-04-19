@@ -32,3 +32,6 @@ Password Locker is a terminal run python application that allows users to store 
 |Display prompt for creating account| Enter:ca| Enter you first name, last name and password|
 |Display prompt for log in| Enter:li|Enter your account name and password|
 |Exit application| Enter:ex| Exit the current navigation stage|
+
+## Technologies used
+* python3.6
