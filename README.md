@@ -25,6 +25,9 @@ Password Locker is a terminal run python application that allows users to store 
 * To run the tests for the class file:
       *  $ python3.6 user_credentials_test.py
 
+## Bugs
+The python3.6 user_credentials_test.py gives an error Output.
+
 # Behaviour Driven Development(BDD)
 | Behaviour | Input | Output|
 |-----------|-------|--------|
