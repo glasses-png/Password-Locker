@@ -9,6 +9,7 @@ Password Locker is a terminal run python application that allows users to store 
 # SetUp/Installation
 * python3.6
 * pyperclip
+* pip
 
 
 ### Cloning
